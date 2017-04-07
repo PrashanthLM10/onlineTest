@@ -1,0 +1,15 @@
+ul{
+  list-style-type: none;
+}
+.paneList li{
+  float: left;
+  cursor : pointer;
+}
+.paneQuestion span{
+  border : 0.1px solid black;
+  padding : 2px 7px 2px 7px;
+}
+.paneQuestion span:hover{
+  color:white;
+  background-color: #00bfff
+}
